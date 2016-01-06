@@ -11,3 +11,6 @@ First run the encrypter and input your password. This stores your password in an
 simply delete the file and/or change the key located on the top of the encrypter.
 
 Afterwards, change the MainNoGui main method to add the classes you would like and run.
+
+#Dependency
+This bot uses selenium 2.46.0. You will need to download selenium and add it to the build path.
