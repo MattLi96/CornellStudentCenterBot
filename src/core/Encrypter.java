@@ -42,7 +42,7 @@ public class Encrypter {
 			FileOutputStream fo = new FileOutputStream("info.txt");
 			fo.write(ePass);
 			fo.close();
-
+			s.close();
 		} catch(Exception e) {
 			e.printStackTrace();
 		}

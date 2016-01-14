@@ -1,16 +1,8 @@
 package core;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import schedule.Schedule;
-import schedule.section.LectureOnly;
 import utilities.BotFunctions;
 import bot.Bot;
 
